@@ -5,7 +5,7 @@ This project is refered from the [cs231n-assignment](https://github.com/czy97/cs
 ## Require：
 - python 3.6  
 - numpy  
-- download mnist data in the codes/data/
+- download mnist data and store in the codes/data/
 
 ## Function:
 - Define arbitrary hiddens layers as you want  
