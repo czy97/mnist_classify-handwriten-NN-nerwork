@@ -9,13 +9,13 @@ This project is refered from the [cs231n-assignment](https://github.com/czy97/cs
 
 ## Function:
 - Define arbitrary hiddens layers as you want  
-- Choose actication function between sigmoid and relu  
-- Batchnorm  
+- Choose activation function between sigmoid and relu  
+- BatchNorm  
 - Dropout  
 - Model storing(FullyConnectedNet.storeModel())  
 - Model loading(FullyConnectedNet.loadModel())  
-- Choose different update rule among sgd/sgd_momentum/rmsprop/adam  
-- Seperated model definition module(codes.classifiers.fc_net.FullyConnectedNet) and update module(codes.solver.Solver)
+- Choose different update rules among sgd/sgd_momentum/rmsprop/adam  
+- Seperated model definition module(codes.classifiers.fc_net.FullyConnectedNet) and updating module(codes.solver.Solver)
 
 ## Demo
 mnist_classification.ipynb
