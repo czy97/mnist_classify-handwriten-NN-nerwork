@@ -19,3 +19,7 @@ This project is refered from the [cs231n-assignment](https://github.com/czy97/cs
 
 ## Demo
 mnist_classification.ipynb
+
+## Postscript
+The bestParams.pkl in the params directory I didn't upload here.  
+If you need email me to chenzhengyang117@gmail.com
